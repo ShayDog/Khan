@@ -1,1 +1,1 @@
-banana, monkey, KHAN, Spock 
+Kirk, monkey, KHAN, Spock, Batman, Bane, Harley Quin
